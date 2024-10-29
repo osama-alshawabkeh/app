@@ -1,0 +1,26 @@
+[
+    {
+        "username": "osama",
+        "email": "osama@gmail.com",
+        "password": "Osama.123",
+        "phone": "0778472980"
+    },
+    {
+        "username": "lana11",
+        "email": "lana@gmail.com",
+        "password": "Lana.123",
+        "phone": "0778472985"
+    },
+    {
+        "username": "lanaa",
+        "email": "lanaa@gmail.com",
+        "password": "Lanaa.123",
+        "phone": "0784759852"
+    },
+    {
+        "username": "osama11",
+        "email": "osama11@gmail.com",
+        "password": "Osama11.123",
+        "phone": "0784578952"
+    }
+]
