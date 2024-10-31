@@ -69,4 +69,4 @@ def App(page:Page):
 
 
 if "__main__"==__name__:
-    app(App)
+    app(App,view=AppView.WEB_BROWSER)
